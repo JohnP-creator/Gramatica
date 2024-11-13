@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gramatica", "Gramatica\Gramatica.csproj", "{207741EE-12A0-4C50-91FD-075C313353E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{B5A9BE82-0108-4452-A7DA-36C2687B890A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Manejadores", "Manejadores\Manejadores.csproj", "{68D6133D-3899-4C93-B9D6-456A0FD45BB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{207741EE-12A0-4C50-91FD-075C313353E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{207741EE-12A0-4C50-91FD-075C313353E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{207741EE-12A0-4C50-91FD-075C313353E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{207741EE-12A0-4C50-91FD-075C313353E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5A9BE82-0108-4452-A7DA-36C2687B890A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5A9BE82-0108-4452-A7DA-36C2687B890A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5A9BE82-0108-4452-A7DA-36C2687B890A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5A9BE82-0108-4452-A7DA-36C2687B890A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68D6133D-3899-4C93-B9D6-456A0FD45BB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68D6133D-3899-4C93-B9D6-456A0FD45BB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68D6133D-3899-4C93-B9D6-456A0FD45BB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68D6133D-3899-4C93-B9D6-456A0FD45BB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9133FC33-8E72-4677-9556-D4F208D11CFA}
+	EndGlobalSection
+EndGlobal
